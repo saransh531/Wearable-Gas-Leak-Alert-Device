@@ -1,4 +1,4 @@
 # Wearable-Gas-Leak-Alert-Device
 Developed a product for the auditorily impaired to alert them of gas leaks via wearable personal device with wrist mounted vibrator. This code works in conjuction with a wearable watch and micro computer to activate a vibrator if dangerous amounts of carbon monoxide is detected. As the level of carbon monoxide exceeds increasily greater thresholds, the frequency of vibrations increases. A live feed of carbon monoxide levels is also outputted to an LCD screen on the wearable watch. Once the user has gotten to safety, the program can be terminated with a button, at which point a text file is created containing a log of carbon monoxide levels that the user was exposed to that can be forwarded to the fire department or health professionals for analysis. 
 
-The program is intended to be used with a raspberry pi and was tested using a raspberry pi emulator. The final code can be found in Team41_DP3_Python_Program.py
+The program is intended to be used with a raspberry pi and was tested using a raspberry pi emulator. The final code can be found in Team41_Python_Program.py
